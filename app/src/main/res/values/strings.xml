@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista</string>
+
+
+    <string name="add_list_button">Agregar a la lista</string>
+    <string name="back_list_button">Volver</string>
+    <string name="hint_input_product">Agregar Producto</string>
+
+</resources>
